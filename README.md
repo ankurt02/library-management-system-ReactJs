@@ -10,7 +10,7 @@ The backend exposes REST APIs, while the frontend consumes them for managing lib
 ---
 
 <p align="center">
-  <img src="public\screenshot01.png" alt="Library System UI" width="900">
+  <img src="frontend/public/screenshot01.png" alt="Library System UI" width="900">
 </p>
 
 
